@@ -1,0 +1,131 @@
+
+.header{
+	background-color: white;
+	margin:auto;
+	text-align: center;
+	border-bottom: 2px solid gray;
+}
+.header img{
+	height: 150px;
+	border: 3px solid #21D0DE;
+}
+.header span{
+	color:#21D0DE;
+}
+.seccion1 h2{
+    color:#21D0DE;
+    font-size: 30px;
+    font-weight: bold;
+}
+.seccion1 p{
+	font-size: 16px;
+}
+.seccion1 ul li h3{
+	display: inline-block;
+	font-size: 15px;
+}
+.seccion1 ul li span{
+	color:#21D0DE;
+	font-size: 20px;
+	font-weight: bold;
+}
+.seccion2 h2{
+	color:#21D0DE;
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+.seccion2 h4{
+	font-size: 20px;
+	width: 20%;
+	margin-right:0;
+	display: inline;
+	font-weight: bold;
+	box-sizing: border-box;
+}
+.seccion2 p{
+ font-size: 14px;
+ box-sizing: border-box;
+   
+}
+.seccion2 .PY{
+	font-size: 20PX;
+    background-color: #21D0DE;
+    width: 90%;
+    padding: 5PX;
+    font-weight: bold;
+}
+.seccion2 .HTML{
+	font-size: 20PX;
+    background-color: #21D0DE;
+    width: 70%;
+    padding: 5PX;
+    font-weight: bold;
+}
+.seccion2 .CSS{
+	font-size: 20PX;
+    background-color: #21D0DE;
+    width: 50%;
+    padding: 5PX;
+    font-weight: bold;
+}
+.seccion2 .JS{
+	font-size: 20PX;
+    background-color: #21D0DE;
+    width: 30%;
+    padding: 5PX;
+    font-weight: bold;
+}
+.seccion2 .PHP{
+	font-size: 20PX;
+    background-color: #21D0DE;
+    width: 20%;
+    padding: 5PX;
+    font-weight: bold;
+}
+.seccion3 h2 {
+    color:#21D0DE;
+    font-size: 30px;
+    font-weight: bold;
+}
+.seccion3 h4{
+	font-size: 12px;
+	width: 20%;
+	margin-right:0;
+	display: inline;
+	font-weight: bold;
+	box-sizing: border-box;
+}
+.seccion3 h5{
+	font-size: 8px;
+}
+.seccion3 p{
+	font-size: 10px;
+	box-sizing: border-box;
+}
+.seccion3 h3{
+	font-size: 20px;
+	border-bottom: 1px solid gray;
+	margin-top: 0;
+}
+.icono .glyphicon{
+	color: #21D0DE;
+}
+.col-md-4{
+	position: absolute;
+}
+.glyphicon{
+	float: right;
+	display: inline-block;
+	position: relative;
+	top:20%;
+}
+.seccion3 div h4{
+	font-size: 20px
+	background-color: #0BB0BD;
+	padding: 2px;
+	display: block;
+	float: left;
+	width: 75px;
+
+}
